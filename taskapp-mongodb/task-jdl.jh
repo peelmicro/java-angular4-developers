@@ -1,0 +1,6 @@
+entity Task {
+	id String,
+    name String required,
+    dueDate LocalDate required,
+    completed Boolean required
+}
