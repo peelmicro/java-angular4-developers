@@ -1,0 +1,27 @@
+
+{
+    "gatewayApp": {
+        "speaker" : {
+            "home": {
+                "title": "Speakers",
+                "createLabel": "Crear nuevo Speaker",
+                "createOrEditLabel": "Crear o editar Speaker"
+            },
+            "created": "Un nuevo Speaker ha sido creado con el identificador {{ param }}",
+            "updated": "Un Speaker ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Speaker ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Speaker {{ id }}?"
+            },
+            "detail": {
+                "title": "Speaker"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "twiter": "Twiter",
+            "bio": "Bio",
+            "sessions": "Sessions"
+        }
+    }
+}

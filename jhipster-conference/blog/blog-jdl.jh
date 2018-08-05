@@ -1,0 +1,8 @@
+entity Blog {
+	id String
+	title String required,
+    author String required,
+    post TextBlob required
+}
+
+microservice * with blog
